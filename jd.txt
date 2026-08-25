@@ -1,0 +1,116 @@
+About the job
+BGL BNP Paribas is one of the largest banks in Luxembourg and part of the BNP Paribas Group. 
+
+It offers an especially wide range of financial products and bancassurance solutions to individuals, professionals, businesses and private banking clients. 
+
+In 2024, BGL BNP Paribas was named "Best Bank in Luxembourg" by Euromoney and in 2025, for the 10th consecutive year, was awarded the "Top Employer Luxembourg" certification, in recognition of the excellent working conditions offered to its employees.
+
+As part of its development, we are looking for an :
+
+ 
+Internship : Tool Calling Agents (M/F)
+
+6 months to begin as soon as possible
+
+You must justify an internship agreement covering all the length of the mission
+ 
+ 
+
+ 
+
+CONTEXT AND CHALLENGES
+
+ 
+
+We are seeking a motivated intern with a passion for Large Language Models (LLMs), Reinforcement Learning (RL), and advanced AI applications to join our team as a Tool Calling Agent Intern. In this role, you will help train and fine-tune LLMs to perform tool calling using Supervised Fine-Tuning (SFT) and reinforcement learning, focusing on highly specialized banking tools and domain-specific knowledge. The main objectives are to optimize information and data extraction processes, as well as to demonstrate effective tool integration for banking use cases.
+ 
+ 
+ 
+
+ 
+ 
+
+WHAT'S YOUR DAY-TO-DAY MISSION?
+
+ 
+
+Develop and refine LLM-based agents to perform tool calling for specific banking applications. 
+Utilize SFT and reinforcement learning to train models on banking tool interactions and workflows. 
+Create synthetic datasets and RL environments tailored to banking scenarios for custom tool calling. 
+Implement, fine-tune, and evaluate models for accurate and efficient data extraction. 
+Integrate APIs and SQL queries to connect agents with real-world banking tools and databases.
+Showcase the capabilities of trained agents through demonstrations and reporting.
+Collaborate with AI specialists to ensure best practices in model development and evaluation.
+ 
+
+ 
+ 
+
+MISSIONS ARE IMPORTANT, BUT SO ARE THE TEAM AND THE WORK ENVIRONMENT!
+
+ 
+
+Your working environment 
+
+ 
+
+Location: Luxembourg 
+Team composition: 10 data scientists and Machine learning Engineers 
+Interactions: You will collaborate with team members and may interact with experts from other departments, including technology and business units
+Benefits of this position?
+
+ 
+Practical experience in training LLMs with SFT and reinforcement learning techniques. 
+Hands-on development of RL environments and synthetic data for banking applications. 
+Advanced model finetuning and evaluation strategies tailored to tool calling tasks. 
+Integration of APIs and SQL for seamless agent-tool interactions. 
+Exposure to real-world banking processes and domain-specific data extraction challenges. 
+Collaboration with expert engineers and researchers in AI and financial technology.
+ 
+ 
+
+ARE YOU OUR FUTURE INTERN 
+
+ 
+
+Professional experience and/or degree
+
+ 
+Currently pursuing a degree in Computer Science, Artificial Intelligence, Machine Learning, or a related technical field.
+ 
+ 
+ 
+
+Behavioural skills
+
+ 
+Collaboration and teamwork 
+Organizational skills 
+Communication skills 
+Creativity and innovation 
+Problem-solving skills
+ 
+
+ 
+
+Transversal skills
+
+ 
+Analytical thinking
+ 
+
+Technical skills
+
+ 
+
+Essential: 
+Strong understanding of LLMs, reinforcement learning, and model finetuning.
+Proficiency with PyTorch, SQL, and API integration. 
+Nice-to-have: Experience creating synthetic data and RL environments.
+ 
+ 
+
+Language skills
+
+ 
+Proficiency in English and French
